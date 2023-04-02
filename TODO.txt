@@ -1,0 +1,9 @@
++/-/* big, small, superficial
+
+? record patterns for playback (macros?)
++ PUSH TO REPO!!!
+- collision
+- more messing with colors
++ design relative movement controls
++ 2d test level
+- Think about pulling in events into design
